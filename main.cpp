@@ -5,6 +5,7 @@
  // Description:     Uso de clases, herencias y Polimorfismo para diseñar un ADC de 32 canales, con resolucion de 8, 10 o 12 bits y un rango de entrada de 0 a 3.3v
  // Authors:         Jesus Adrian Guerra Delgado
  // Updated:         09/2022
+ // LINK a Github: https://github.com/AGuerra0122/Lab3-Herencia-y-polimorfismo-inciso-3a 
  //Nota: Version 3a
 ************************************************************************************************************************/
 //30-09-2022
